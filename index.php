@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-
+<!-- Izmena koda -->
 <head>
     <meta charset="UTF-8">
     <title>FON: Zakazivanje kolokvijuma</title>
@@ -14,11 +14,11 @@
             <h2 class="text-center">Prijava</h2>
             <form method="POST" action="#">
                 <div class="form-group">
-                    <label for="username">KORISNICKO IME</label>
+                    <label for="username">Ivana Pantelic</label>
                     <input type="text" name="username" class="form-control" required>
                 </div>
                 <div class="form-group">
-                    <label for="password">LOZINKA</label>
+                    <label for="password">Ivana</label>
                     <input type="password" name="password" class="form-control" required>
                 </div>
                 <button type="submit" class="btn btn-primary btn-block mt-4" name="submit">Prijavi se!</button>
